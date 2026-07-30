@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Placeholder feed. Valid but empty: Sparkle reads it as "you are up to date"
+  rather than failing, which is what a missing feed would do. The release
+  workflow overwrites this file with the signed feed on the first v* tag.
+-->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Twain</title>
+    <link>https://twain.md/appcast.xml</link>
+    <description>Updates for Twain</description>
+    <language>en</language>
+  </channel>
+</rss>
