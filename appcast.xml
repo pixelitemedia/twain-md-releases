@@ -3,13 +3,13 @@
     <channel>
         <title>Twain</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Fri, 31 Jul 2026 01:40:47 +0000</pubDate>
+            <title>1.0.1</title>
+            <pubDate>Fri, 31 Jul 2026 17:08:02 +1000</pubDate>
             <link>https://twain.md</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pixelitemedia/twain-md-releases/releases/download/v1.0.0/Twain.zip" length="9181565" type="application/octet-stream" sparkle:edSignature="xlbOG7i8q5GPoVBKijX9ErjUdCUAKCNdAfG9zL6QQAc/QK3T1COF74I/a0Pc2Sfry4qrkd8+pomfwsECsZY1Dg=="/>
+            <enclosure url="https://github.com/pixelitemedia/twain-md-releases/releases/download/v1.0.1/Twain.v1.0.1.zip" length="9369497" type="application/octet-stream" sparkle:edSignature="0B3A+cXLLCKNslasq5U8SFZniXT/XhdNGtIOfQJdjfmWru+w/+Xz3DoEDpKnGCmV3OQYga2/jd1bDyE1jG7cDg=="/>
         </item>
     </channel>
 </rss>
