@@ -4,12 +4,12 @@
         <title>Twain</title>
         <item>
             <title>1.0.4</title>
-            <pubDate>Mon, 03 Aug 2026 05:01:18 +1000</pubDate>
+            <pubDate>Sun, 02 Aug 2026 19:14:00 +0000</pubDate>
             <link>https://twain.md</link>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pixelitemedia/twain-md-releases/releases/download/v1.0.4/Twain.v1.0.4.zip" length="9513910" type="application/octet-stream" sparkle:edSignature="hTKoOhV02Cj2lFHihcOrIH9SsC+qjmuvayH7aoDOfHF2I4JRRgnc8+9r51EAvhYih8wnhmNEQDuJjkIinadiAg=="/>
+            <enclosure url="https://github.com/pixelitemedia/twain-md-releases/releases/download/v1.0.4/Twain.v1.0.4.zip" length="9448389" type="application/octet-stream" sparkle:edSignature="WyxX8T0m+DMXzpk4wpl3W0yoD3M2L9q8IS73WHdAu6dBwFiTj0GViA9boLVV7rUfETq3MaIzuPPDOEPR8D0sCA=="/>
         </item>
     </channel>
 </rss>
